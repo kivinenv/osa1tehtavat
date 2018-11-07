@@ -20,7 +20,7 @@ const Sisalto = (props) => {
 const Yhteensa = (props) => {
     return (
     <div>
-    <p>Yhteensä {props.yhteensa} tehtävää</p>
+    <p>Yhteensä {props.yhteensa} tehtävää.</p>
     </div>
     )
 }
